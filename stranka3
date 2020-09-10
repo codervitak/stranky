@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Stránka 3</title>
+
+  </head>
+  <body background="background1.jpg">
+    <nav>
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka1.html">Stránka 1</a> |
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka2.html">Stránka 2</a> |
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka3.html">Stránka 3</a> |
+    </nav>
+    <h1 style="color:gray; font-size:38px">Nadpis stránky 3</h1>
+    <p>Phasellus non egestas risus. Mauris tortor tortor, placerat at enim sed, elementum vehicula ex. Nam convallis ligula sed feugiat pulvinar. Duis lobortis nunc erat, sed pharetra ante dictum a. Integer nec risus purus. Maecenas malesuada sem sed sagittis fringilla. Nullam turpis elit, scelerisque sed consequat vel, iaculis sed mauris. Maecenas viverra massa in augue aliquam sodales.</p>
+    <p>Sed imperdiet id metus imperdiet venenatis. Quisque at elit sit amet orci tempor sagittis vel quis ligula. Morbi non rutrum turpis. Etiam elementum, lorem vitae egestas elementum, sapien enim viverra nibh, dignissim elementum enim sapien non mauris. Cras dictum ante sapien, eget auctor ex pulvinar quis. Vivamus malesuada, leo id posuere tempor, nisi ipsum iaculis justo, sit amet tempus lacus ex id mauris. Vivamus viverra vel diam non tempus. Fusce eget diam at quam convallis scelerisque eget nec arcu. Nunc porta ipsum eros, quis sollicitudin leo porttitor a. Aliquam odio lorem, posuere quis nibh pulvinar, aliquet convallis sem. Sed quis mauris ac erat lacinia condimentum non ac elit. Cras id volutpat ipsum. Cras auctor pulvinar eros facilisis accumsan. Maecenas fringilla, sem et feugiat faucibus, massa metus volutpat sem, id imperdiet orci quam et nulla. Aenean id est quis augue vestibulum rutrum. Aliquam porttitor, metus ultrices egestas aliquam, neque urna consectetur dolor, quis varius magna ex a dolor.</p>
+    <p>Nulla commodo nec odio ac maximus. Cras id nulla at diam feugiat tincidunt. Phasellus convallis est eget odio porttitor, at vestibulum sem dapibus. In ultricies nec felis eu fringilla. Nulla sed blandit tellus, pharetra blandit tortor. Etiam scelerisque nisi eu est molestie maximus. Donec at blandit dui. Mauris fringilla porttitor turpis, et semper est sagittis eu. Sed nec sagittis urna. Donec dui nulla, ornare vitae tempor congue, commodo vitae tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla lobortis est at nisl tincidunt vestibulum et et turpis. Donec nec ultricies arcu. Fusce nisl metus, faucibus vel dignissim a, pulvinar tempus purus. Maecenas aliquet lorem nec risus placerat aliquam.</p>
+    <p>Cras erat neque, sollicitudin eget congue vel, porttitor ac justo. Mauris dui est, vulputate sed semper quis, sodales a urna. Vivamus porttitor eget turpis nec porta. Ut a libero sit amet ex scelerisque tempus nec ut velit. Mauris posuere sed turpis vel imperdiet. Suspendisse ut lacus ut urna ullamcorper eleifend vitae nec tortor. Nullam ex erat, malesuada id ligula non, dignissim ultrices orci. Integer ut lacinia diam, eu feugiat metus. Sed et venenatis augue. Aliquam eu eros elit. Quisque vel consequat dui. Phasellus pharetra eros metus, non pharetra dui euismod venenatis.</p>
+    <p>Suspendisse non leo ut tellus luctus venenatis. Nunc consequat nec purus sit amet scelerisque. In posuere id erat nec porttitor. Donec a vehicula mi, at imperdiet lorem. Phasellus vulputate rhoncus elit, ac ultrices eros tristique non. Aliquam aliquam, nisi dapibus euismod feugiat, ante lectus dictum nulla, in suscipit risus nisi elementum purus. Aenean id tristique nulla.</p>
+    <ol>
+      <li>prváci</li>
+      <li>druháci</li>
+      <li>třeťáci</li>
+      <li>čtvrťáci</li>
+</ol>
+  </body>
+</html>
