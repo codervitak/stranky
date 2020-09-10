@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Stránka 2</title>
+
+  </head>
+  <body bgcolor="red" background="background.jpg">
+    <nav>
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka1.html">Stránka 1</a> |
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka2.html">Stránka 2</a> |
+      <a href="C:\Users\2018-e-lisner\AppData\Local\atom\app-1.48.0\stranka3.html">Stránka 3</a> |
+    </nav>
+    <h1  style="color:white; font-size:38px">Nadpis stránky 2</h1>
+    <p style="color:white">Morbi a condimentum mi. Nulla hendrerit augue ac nunc mattis, sit amet suscipit tortor accumsan. Suspendisse potenti. Proin rhoncus, velit ac ullamcorper feugiat, tellus sapien aliquam ante, at volutpat mi dolor sit amet tortor. Vestibulum non erat sed justo pharetra vulputate. Aliquam in nunc eleifend, dictum libero a, aliquam quam. Duis sed ornare urna. Pellentesque faucibus pretium eros.</p>
+    <p style="color:white; font-family:'Courier New'">Donec dignissim vehicula nunc, at ullamcorper mi blandit non. Fusce fringilla elit at elit auctor rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam metus enim, mattis commodo ipsum in, volutpat viverra dui. Fusce fermentum efficitur est. Donec tempus egestas lectus vel lobortis. Aenean molestie justo quis ipsum sodales vehicula. Donec iaculis lobortis nulla, ac pretium ligula malesuada aliquam. Donec convallis vehicula leo, in dictum nisl. Maecenas vel elit vitae est cursus pretium id et orci. Sed elementum lacus eget condimentum cursus.</p>
+    <p style="color:white">Phasellus lectus erat, accumsan non velit in, tristique convallis mi. Quisque tristique condimentum tortor non suscipit. Sed mauris risus, sollicitudin vitae nibh feugiat, laoreet sollicitudin ligula. Nam fermentum et massa a dapibus. Aenean imperdiet arcu placerat dignissim aliquet. Curabitur eget tempus lorem, id vehicula ex. Aliquam iaculis, ante at elementum vestibulum, elit ante semper massa, sit amet varius velit felis vel justo. Nullam rutrum sodales tellus a ultricies. Sed at ligula velit. Curabitur pellentesque vulputate congue. Integer sed nibh nec nisl sodales consectetur. Donec blandit sem eu massa dapibus, id feugiat arcu convallis. Vestibulum orci velit, gravida eu aliquet id, elementum sit amet lacus. Donec quam mauris, convallis at felis at, lobortis finibus ante. In hac habitasse platea dictumst.</p>
+    <p style="color:white">Donec lacus nibh, interdum eget congue at, eleifend in orci. Proin scelerisque vehicula purus nec pretium. Donec eget nunc nunc. Morbi risus diam, rhoncus a aliquet nec, rutrum id velit. Suspendisse potenti. Curabitur aliquet eu est dignissim blandit. Nam quis sollicitudin lacus. Suspendisse a condimentum ipsum. In dapibus nulla vitae condimentum egestas. Quisque eget tristique ligula.</p>
+    <p style="color:white">Curabitur vitae neque sit amet massa finibus ornare id in tellus. Nulla et consectetur nunc, a suscipit massa. Integer nulla metus, mollis a vestibulum in, hendrerit eget tellus. Nam consequat aliquam ante, id ultricies ipsum aliquam bibendum. Sed tincidunt neque massa, eu vulputate sapien mattis ut. Fusce facilisis leo ac nisl eleifend, non sagittis sem accumsan. Aliquam sit amet est vel ex ultrices euismod ullamcorper venenatis magna. Ut at consectetur nibh, eu efficitur tortor. Integer ac iaculis quam. Pellentesque varius eros ac diam hendrerit, sed aliquam eros rhoncus. Vivamus in dui mi. Proin imperdiet arcu quam, congue volutpat purus sodales fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum dapibus, magna quis lobortis ornare, justo elit ullamcorper mauris, vel aliquam lectus est ut mi. Fusce libero nulla, eleifend ac euismod vel, feugiat sit amet quam. Quisque in dolor id nibh maximus efficitur.</p>
+    <img src="dragon.jpg" alt="Obrázek draka" />
+  </body>
+</html>
